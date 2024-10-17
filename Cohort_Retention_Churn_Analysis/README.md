@@ -18,23 +18,23 @@ After retrieving the necessary data, I visualized the retention rates using Goog
 
 ### Key Insights
 
-Healthy Retention Rates: According to an industry benchmark for EdTech platforms, the average retention rate is around 27%. Based on this, Turing’s 6-week retention rate appears healthy, suggesting that their user onboarding and retention strategies are effective.
+- Healthy Retention Rates: According to an industry benchmark for EdTech platforms, the average retention rate is around 27%. Based on this, Turing’s 6-week retention rate appears healthy, suggesting that their user onboarding and retention strategies are effective.
 
-Drop-off in Week 2: The most significant retention drop-off occurs between weeks 1 and 2, suggesting that this period is critical for keeping new subscribers engaged.
+- Drop-off in Week 2: The most significant retention drop-off occurs between weeks 1 and 2, suggesting that this period is critical for keeping new subscribers engaged.
 
-Improved Recent Retention: Since December 6, 2020, newer cohorts have shown improved retention compared to earlier cohorts, possibly due to changes in customer engagement strategies or product updates.
+- Improved Recent Retention: Since December 6, 2020, newer cohorts have shown improved retention compared to earlier cohorts, possibly due to changes in customer engagement strategies or product updates.
 
-Steady Decline in Recent Cohorts: While recent cohorts show a steady decrease in retention, earlier cohorts experience a sharper drop-off. This suggests that recent improvements in onboarding may have played a role in keeping subscribers engaged for longer.
+- Steady Decline in Recent Cohorts: While recent cohorts show a steady decrease in retention, earlier cohorts experience a sharper drop-off. This suggests that recent improvements in onboarding may have played a role in keeping subscribers engaged for longer.
 
 ### Recommendations
 
-Enhance Second-Week Engagement: Focus efforts on engaging new subscribers during their second week, as this is the critical period where churn spikes. Personalized communication, educational content, and special offers could help reduce churn during this time.
+- Enhance Second-Week Engagement: Focus efforts on engaging new subscribers during their second week, as this is the critical period where churn spikes. Personalized communication, educational content, and special offers could help reduce churn during this time.
 
-Analyze Early Cohorts: Investigate the patterns and reasons behind the lower retention rates in earlier cohorts. Were there differences in the product or onboarding experience that could have contributed to the higher churn rate?
+- Analyze Early Cohorts: Investigate the patterns and reasons behind the lower retention rates in earlier cohorts. Were there differences in the product or onboarding experience that could have contributed to the higher churn rate?
 
-Leverage Insights from Recent Cohorts: Study what has improved in recent cohorts to extend these strategies across all subscribers. If certain features or engagement strategies have led to improved retention, those insights can help refine the customer retention process.
+- Leverage Insights from Recent Cohorts: Study what has improved in recent cohorts to extend these strategies across all subscribers. If certain features or engagement strategies have led to improved retention, those insights can help refine the customer retention process.
 
-Longer-Term Retention Analysis: Conduct a longer-term retention analysis to understand how subscribers behave over several months. This could help identify long-term loyal customers and potential areas for subscription renewal campaigns.
+- Longer-Term Retention Analysis: Conduct a longer-term retention analysis to understand how subscribers behave over several months. This could help identify long-term loyal customers and potential areas for subscription renewal campaigns.
 
 ## Conclusion
 This cohort analysis provided a granular view of subscriber retention for Turing’s EdTech platform. The insights gained highlight critical periods of churn and areas where the company can improve engagement. Retention rates are currently healthy, but focusing on the second week of the subscriber journey could further enhance long-term user retention.
