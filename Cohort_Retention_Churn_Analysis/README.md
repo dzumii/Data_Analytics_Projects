@@ -12,7 +12,7 @@ The analysis was based on the turing_data_analytics.subscriptions table, with a 
 - Cohort Week: Each cohort was formed by grouping subscribers who started their subscriptions in the same week. Weeks were defined from Sunday to Saturday.  
 - Weekly Retention: For each cohort, I calculated how many subscribers remained active in week 0 (the week of subscription) through week 6.  
 - Subscription End Dates: For inactive subscribers, their subscription end dates were taken into account to measure retention over time.  
-- SQL Query: I used the following SQL query to extract and analyze data from BigQuery
+- SQL Query: I used the following [SQL query](/Retention.sql) to extract and analyze data from BigQuery
 
 ## Visualization and Analysis
 After retrieving the necessary data, I visualized the retention rates using Google Sheets, applying conditional formatting to highlight trends in retention rates for each cohort over time. Additionally, I created churn charts and retention curves to easily display the drop-off of subscribers over the 6-week period.
