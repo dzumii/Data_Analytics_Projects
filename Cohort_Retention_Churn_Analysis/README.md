@@ -15,7 +15,7 @@ The analysis was based on the turing_data_analytics.subscriptions table, with a 
 - SQL Query: I used the following [SQL query](Retention.sql) to extract and analyze data from BigQuery
 
 ## Visualization and Analysis
-After retrieving the necessary data, I visualized the retention rates using Google Sheets, applying conditional formatting to highlight trends in retention rates for each cohort over time. Additionally, I created churn charts and retention curves to easily display the drop-off of subscribers over the 6-week period.
+After retrieving the necessary data, I visualized the retention rates using Google Sheets, applying conditional formatting to highlight trends in retention rates for each cohort over time. Additionally, I created [churn and retention charts](Retention.xlsx) to easily display the drop-off of subscribers over the 6-week period.
 
 ### Key Insights
 
