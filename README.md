@@ -29,7 +29,7 @@ Each analysis folder includes the following components:
 
 4. [Customer Lifetime Value (CLV) Analysis](Customer_Lifetime_Value)
 
-5. [A/B Testing]([AB_Testing)
+5. [A/B Testing](AB_Testing)
 
 ## Getting Started
 
