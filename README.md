@@ -21,23 +21,20 @@ Each analysis folder includes the following components:
 
 ## Analysis Areas
 
-1. **Cohort Analysis**
-   - [Link to Cohort Analysis]
+1. **Retention and Churn Analysis**
+   - [Cohort_Retention_Churn]
 
-2. **Retention and Churn Analysis**
-   - [Link to Retention and Churn Analysis]
+2. **Funnel Analysis**
+   - [Funnel Analysis]
 
-3. **Funnel Analysis**
-   - [Link to Funnel Analysis]
+3. **Customer Segmentation with RFM Analysis**
+   - [Customer Segmentation using RFM]
 
-4. **Customer Segmentation with RFM Analysis**
-   - [Link to Customer Segmentation with RFM Analysis]
+4. **Customer Lifetime Value (CLV) Analysis**
+   - [Customer Lifetime Value]
 
-5. **Customer Lifetime Value (CLV) Analysis**
-   - [Link to Customer Lifetime Value (CLV) Analysis]
-
-6. **A/B Testing**
-   - [Link to A/B Testing]
+5. **A/B Testing**
+   - [AB Testing]
 
 ## Getting Started
 
@@ -45,7 +42,7 @@ To explore this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/dzumii/Data_Analytics_Projects.git
 2. Navigate to the desired folder:
    ```bash
    cd Data_Analytics_Projects
