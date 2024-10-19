@@ -1,4 +1,4 @@
-# Subscription Cohort Analysis and Retention Insights for Turing Platform
+# Subscription Cohort Analysis and Retention Insights
 #  Project Overview
 ## Introduction
 Subscription-based platforms rely heavily on retaining customers over time, and one of the most insightful ways to track customer retention is through cohort analysis. This project focuses on understanding Turing’s weekly subscription churn by tracking subscriber retention over a 6-week period. Using Turing's subscriptions dataset, I examined how many subscribers started in a particular week and how many remained active through subsequent weeks. This analysis was done to provide actionable insights for improving subscriber retention and engagement.
