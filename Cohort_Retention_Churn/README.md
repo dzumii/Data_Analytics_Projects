@@ -19,23 +19,29 @@ After retrieving the necessary data, I visualized the retention rates using Goog
 
 ### Key Insights
 
-- Healthy Retention Rates: According to an industry benchmark for EdTech platforms, the average retention rate is around 27%. Based on this, Turing’s 6-week retention rate appears healthy, suggesting that their user onboarding and retention strategies are effective.
+- Overall Strong Retention Performance: The retention data shows consistently high retention rates, with many cohorts maintaining over 90% retention throughout the first six weeks. This suggests a healthy onboarding process and strong user engagement strategies.
 
-- Drop-off in Week 2: The most significant retention drop-off occurs between weeks 1 and 2, suggesting that this period is critical for keeping new subscribers engaged.
+- Retention Improved After December 2020: Starting from the 12/6/2020 cohort, there is a noticeable improvement in retention rates compared to earlier cohorts. Cohorts from 12/6/2020 onward consistently maintain retention rates in the mid-90s, with minimal drop-offs over time. For example, the 12/20/2020 cohort retains 94% of users after six weeks, which is significantly higher than earlier cohorts like 11/1/2020, which retains only 85% by week 6.
 
-- Improved Recent Retention: Since December 6, 2020, newer cohorts have shown improved retention compared to earlier cohorts, possibly due to changes in customer engagement strategies or product updates.
+- Week 2 Drop-off in Early Cohorts: For cohorts before 12/6/2020, there is a significant drop in retention after week 1. Retention dips to 90% or lower for these earlier cohorts, with further gradual decline in subsequent weeks. For instance, the 11/8/2020 cohort drops to 89% in week 2 and continues to decline to 85% by week 6.
 
-- Steady Decline in Recent Cohorts: While recent cohorts show a steady decrease in retention, earlier cohorts experience a sharper drop-off. This suggests that recent improvements in onboarding may have played a role in keeping subscribers engaged for longer.
+- Recent Cohorts Show Consistent Retention: From 12/6/2020 onwards, cohorts display remarkable consistency, with retention rates staying above 90% even up to week 6. The 12/13/2020 cohort maintains a retention rate of 92% by week 6, which is a marked improvement over earlier cohorts.
+
+- Stable Retention Plateau in Week 4 for Recent Cohorts: The data shows that recent cohorts (from 12/6/2020 onward) experience a retention plateau starting from week 4. The 12/13/2020 and 12/20/2020 cohorts, for example, exhibit minimal declines after week 4, suggesting that subscribers who remain active by this point are likely to stay longer-term.
+
+- Perfect Retention in the Most Recent Week (1/31/2021): The 1/31/2021 cohort shows 100% retention in week 1, indicating a promising start for this group. While it’s still early to fully assess long-term retention, this is a positive sign for new subscribers.
 
 ### Recommendations
 
-- Enhance Second-Week Engagement: Focus efforts on engaging new subscribers during their second week, as this is the critical period where churn spikes. Personalized communication, educational content, and special offers could help reduce churn during this time.
+- Focus on Second Week Engagement for Early Cohorts: Given the noticeable drop-off in retention after week 1 for cohorts before 12/6/2020, it's crucial to investigate what factors contributed to this. Consider targeted engagement strategies for the second week, such as personalized email campaigns, tutorials, or special promotions, to retain more users during this critical period.
 
-- Analyze Early Cohorts: Investigate the patterns and reasons behind the lower retention rates in earlier cohorts. Were there differences in the product or onboarding experience that could have contributed to the higher churn rate?
+- Replicate the Success of Recent Cohorts: Since cohorts after 12/6/2020 show significantly improved retention, it would be valuable to analyze what changed in the onboarding or product experience. Were there updates in the platform, new features, or changes in user communication? Replicating these strategies could further improve retention for future cohorts.
 
-- Leverage Insights from Recent Cohorts: Study what has improved in recent cohorts to extend these strategies across all subscribers. If certain features or engagement strategies have led to improved retention, those insights can help refine the customer retention process.
+- Minimize Drop-offs for Early Cohorts: While retention has been healthy in recent cohorts, older cohorts like those from November 2020 still display sharper declines. Investigating potential causes for lower retention during this period—such as product bugs, feature usability, or external factors—could help prevent similar issues in the future.
 
-- Longer-Term Retention Analysis: Conduct a longer-term retention analysis to understand how subscribers behave over several months. This could help identify long-term loyal customers and potential areas for subscription renewal campaigns.
+- Maintain Current Strategies Beyond Week 4: The plateau in retention for recent cohorts starting from week 4 suggests that users who stay active until this point are more likely to remain long-term. Focus on reinforcing engagement beyond this period by offering loyalty rewards, exclusive content, or additional resources to keep these users invested.
+
+- Longer-Term Retention Analysis: While the 6-week retention rate is informative, conducting a longer-term analysis (e.g., over 12 weeks or more) would provide insights into subscriber behavior and help identify long-term loyal customers. Understanding what keeps users engaged in the long run can drive strategies for subscription renewals or upselling opportunities
 
 ## Conclusion
 This cohort analysis provided a granular view of subscriber retention for Turing’s EdTech platform. The insights gained highlight critical periods of churn and areas where the company can improve engagement. Retention rates are currently healthy, but focusing on the second week of the subscriber journey could further enhance long-term user retention.
