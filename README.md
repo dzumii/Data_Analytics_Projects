@@ -48,7 +48,6 @@ To explore this project:
    git clone https://github.com/yourusername/your-repo-name.git
 Navigate to the desired folder:
 
-bash
-Copy code
+```bash
 cd your-repo-name/folder-name
 Open the relevant notebook or script to view the analysis.
