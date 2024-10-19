@@ -46,8 +46,7 @@ To explore this project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
-Navigate to the desired folder:
-
-```bash
-cd your-repo-name/folder-name
+2. Navigate to the desired folder:
+   ```bash
+   cd Data_Analytics_Projects
 Open the relevant notebook or script to view the analysis.
