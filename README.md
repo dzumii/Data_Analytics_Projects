@@ -23,13 +23,13 @@ Each analysis folder includes the following components:
 
 1. [Retention and Churn Analysis](Cohort_Retention_Churn)
 
-2. [Funnel Analysis](Funnel Analysis)
+2. [Funnel Analysis](Funnel_Analysis)
 
-3. [Customer Segmentation with RFM Analysis](Customer Segmentation using RFM)
+3. [Customer Segmentation with RFM Analysis](Customer_Segmentation_using_RFM)
 
-4. [Customer Lifetime Value (CLV) Analysis](Customer Lifetime Value)
+4. [Customer Lifetime Value (CLV) Analysis](Customer_Lifetime_Value)
 
-5. [A/B Testing]([AB Testing)
+5. [A/B Testing]([AB_Testing)
 
 ## Getting Started
 
