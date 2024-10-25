@@ -18,9 +18,9 @@ Sales data was gathered from different locations where the three promotions were
 ## Visualization and Analysis
 I visualized the average sales per promotion using a bar chart to highlight the differences in sales performance. The bar chart clearly indicated that:
 
-- Promotion 1 had the highest average sales (58.099).
-- Promotion 3 followed with average sales of 55.364.
-- Promotion 2 had the lowest average sales (47.329).
+- Promotion 1 had the highest average sales (232.4).
+- Promotion 3 followed with average sales of 221.46.
+- Promotion 2 had the lowest average sales (189.32).
 
 Additionally, pairwise t-tests were conducted between the promotions to assess the statistical significance of the differences. The results indicated:
 
